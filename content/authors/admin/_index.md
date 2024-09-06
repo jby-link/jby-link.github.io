@@ -48,7 +48,7 @@ profiles:
 
 interests:
   - Frequency Constrained Dispatch
-  - Power System Optimization Under Uncertainty
+  - Optimization Under Uncertainty
   - Low-inertia Power System
 
 education:
@@ -61,8 +61,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: Visiting PhD Electrical Engineering
+    institution: Aalborg University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -72,8 +72,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc Electrical Engineering
+    institution: Huazhong University of Science and Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
