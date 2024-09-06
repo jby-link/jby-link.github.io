@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Boyou Jiang 江博游
+title: Boyou Jiang
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -20,42 +20,42 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: College of Electrical Engineering, Zhejiang University
-    url: https://openai.com/
+    url: https://www.zju.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:jbylink@zju.edu.cn'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/hugo_jby
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/jby_link/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/jby-link
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/boyou-jiang-374193249/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?hl=en&user=NKs8oQkAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-0254-3151
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Frequency Constrained Dispatch
+  - Power System Optimization Under Uncertainty
+  - Low-inertia Power System
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Electrical Engineering
+    institution: Zhejiang University
+    date_start: 2020-09-01
+    date_end: 2025-06-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Boyou Jiang ("江博游" in Chinese). I am currently a Ph.D. Candidate at College of Electrical Engineering, Zhejiang University. My research interests include frequency constrained dispatch, optimization under uncertainy, operation and control of low-inertia power systems.
